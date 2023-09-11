@@ -8,16 +8,16 @@ I'm a passionate individual with a keen interest in the field of Artificial Inte
 
 ## What I'm Up To
 
-- 🌱 Currently, I'm in the process of learning basic coding languages to build a strong foundation for my career.
+- 🌱 Currently, I'm in the process of learning primary coding languages to build a strong foundation for my career.
 - 👀 I'm always on the lookout for exciting AI projects and new learning opportunities.
 
 ## Collaboration
 
-I'm eager to collaborate on projects involving basic Java programming. Let's work together to create something awesome!
+I'm eager to collaborate on projects involving basic Java programming. Let's work together to create something extraordinary!
 
 ## Get in Touch
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/sidj09). Let's connect and chat about AI, coding, and any other interesting topics.
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/siddham-jain-399767280/). Let's connect and chat about AI, coding, and any other interesting topics.
 
 ## Thanks for Stopping By
 
