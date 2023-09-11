@@ -1,4 +1,4 @@
-# Hi, I'm Sidj09! 👋
+Hi, I'm Sidj09! 👋
 
 ![Profile Picture](https://github.com/sidj09.png)
 
